@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031481640871",
+    "project_id": "ubereatsapp404",
+    "storage_bucket": "ubereatsapp404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031481640871:android:056d79e9d83b94ba825882",
+        "android_client_info": {
+          "package_name": "com.mycompany.ubereats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdO6NPAyrI5rQw497iF-VW4fnNtIew8ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
