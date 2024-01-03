@@ -1,6 +1,6 @@
 # HADEE
 
-A new Flutter project.
+A food delivery application written in dart language to be compiled for both IOS and Android.
 
 ## Getting Started
 
